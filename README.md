@@ -7,3 +7,5 @@ It uses no frameworks, no additional files, just a single HTML-file containing e
 This tool includes these languages: English and Farsi.
 The layout is based on inline-block technique.
 
+## Link
+https://mwscode.github.io/mouse_keyboard_tester/mouse_keyboard_js_tester.min.html
